@@ -1,1 +1,1 @@
-# brainlearns_koyel.github.io
+# brainlearns.github.io
